@@ -2,7 +2,7 @@
 
 This project is an interactive tool that combines trigonometric calculations with graphical visualizations of trigonometric functions and motion simulations. It demonstrates the use of Python for mathematical computations and interactive plots.
 
-![Name image](pics/name.png)
+![Title](pics/name.png)
 
 ## Features
 
