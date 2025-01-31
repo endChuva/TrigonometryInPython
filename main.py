@@ -135,7 +135,7 @@ while True:
            ██║   ██║  ██║██║╚██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝██║ ╚═╝ ██║███████╗   ██║   ██║  ██║   ██║   
            ╚═╝   ╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝  
            
-        matheusmrq.github.io/Profile''', 'cyan'))
+        endChuva.github.io/Profile''', 'cyan'))
     print('\n   Choose your option: [1]Trigonometric Calculator   [2]Analysis and Visualization   [3]Coming Soon...')
     opc = int(input('          '))
     if opc == 1:
